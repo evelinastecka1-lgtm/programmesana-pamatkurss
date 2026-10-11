@@ -19,7 +19,7 @@ README.md satur projekta aprakstu un palaišanas instrukciju.
 
 kods/sveiciens.py satur Python programmas kodu.
 
-#**Palaišana**
+#**Palaišana**#
 
 Nepieciešams: datorā jābūt instalētai Python videi.
 
