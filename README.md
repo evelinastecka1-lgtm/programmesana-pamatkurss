@@ -1,11 +1,11 @@
 # Programmēšana pamatkurss — PD1
 **Autore:** Evelīna Stecka
 
-Par projektu
+**Par projektu**
 
 Šis projekts izveidots programmēšanas pamatkursa noslēguma darbam. Tā mērķis ir izveidot Python programmu, kas terminālī izvada autores vārdu un kursa nosaukumu. Projekta izveidē tiek izmantota mapju struktūra, Git ignorēšanas noteikumi un GitHub Desktop versiju kontrole.
 
-Projekta struktūra
+**Projekta struktūra**
 
 pd1/
 ├── .gitignore
@@ -19,7 +19,7 @@ README.md satur projekta aprakstu un palaišanas instrukciju.
 
 kods/sveiciens.py satur Python programmas kodu.
 
-Palaišana
+**Palaišana**
 
 Nepieciešams: datorā jābūt instalētai Python videi.
 
@@ -36,7 +36,7 @@ Ja programma darbojas pareizi, terminālī parādās:
 Evelīna Stecka
 Programmēšana pamatkurss
 
-Ergonomika
+**Ergonomika**
 
 Ergonomika ir darba vides pielāgošana cilvēka vajadzībām, lai darbs būtu ērts, drošs un mazinātu nevajadzīgu fizisku slodzi.
 
@@ -52,6 +52,6 @@ Acu atpūtināšana: regulāri jānovērš skatiens no ekrāna un jāpalūkojas 
 
 Plaukstu un roku novietojums: rakstot ar tastatūru, plaukstām jābūt atslābinātām un taisnā pozīcijā, bet elkoņiem — tuvu ķermenim. Tas palīdz samazināt nevajadzīgu slodzi uz rokām.
 
-Secinājums
+**Secinājums**
 
 Veidojot šo projektu, tika apgūta Python programmas izveide un palaišana, failu organizēšana, .gitignore izmantošana un izmaiņu pārvaldība ar GitHub Desktop. Pareiza darba vietas iekārtošana un regulāras pauzes palīdz veidot veselīgākus un produktīvākus darba paradumus.
