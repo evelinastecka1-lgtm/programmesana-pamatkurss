@@ -42,15 +42,15 @@ Programmēšana pamatkurss
 
 - **Pareiza sēdēšana:** mugurai jābūt atbalstītai, pleciem atslābinātiem un pēdām stabili novietotām uz grīdas vai kāju balsta. Tas palīdz mazināt saspringumu mugurā un plecos.
 
-- Monitora novietojums: monitoram jāatrodas aptuveni rokas stiepiena attālumā, un tā augšējai malai jābūt acu līmenī vai nedaudz zemāk. Tas palīdz saglabāt ērtu galvas un kakla pozīciju.
+- **Monitora novietojums:** monitoram jāatrodas aptuveni rokas stiepiena attālumā, un tā augšējai malai jābūt acu līmenī vai nedaudz zemāk. Tas palīdz saglabāt ērtu galvas un kakla pozīciju.
 
-- Apgaismojums: darba vietai jābūt pietiekami apgaismotai, izvairoties no atspīdumiem ekrānā. Tas uzlabo redzamību un darba komfortu.
+- **Apgaismojums:** darba vietai jābūt pietiekami apgaismotai, izvairoties no atspīdumiem ekrānā. Tas uzlabo redzamību un darba komfortu.
 
-- Regulāras pauzes: ik pa laikam jāpieceļas, jāizstaipās un jāmaina ķermeņa pozīcija. Tas palīdz mazināt ilgstošas sēdēšanas radīto slodzi.
+- **Regulāras pauzes:** ik pa laikam jāpieceļas, jāizstaipās un jāmaina ķermeņa pozīcija. Tas palīdz mazināt ilgstošas sēdēšanas radīto slodzi.
 
-- Acu atpūtināšana: regulāri jānovērš skatiens no ekrāna un jāpalūkojas tālumā. Tas var palīdzēt mazināt acu nogurumu.
+- **Acu atpūtināšana:** regulāri jānovērš skatiens no ekrāna un jāpalūkojas tālumā. Tas var palīdzēt mazināt acu nogurumu.
 
-- Plaukstu un roku novietojums: rakstot ar tastatūru, plaukstām jābūt atslābinātām un taisnā pozīcijā, bet elkoņiem — tuvu ķermenim. Tas palīdz samazināt nevajadzīgu slodzi uz rokām.
+- **Plaukstu un roku novietojums:** rakstot ar tastatūru, plaukstām jābūt atslābinātām un taisnā pozīcijā, bet elkoņiem — tuvu ķermenim. Tas palīdz samazināt nevajadzīgu slodzi uz rokām.
 
 **Secinājums**
 
