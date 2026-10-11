@@ -1,7 +1,7 @@
 # Programmēšana pamatkurss — PD1
-**Autore:** Evelīna Stecka
+## **Autore:** ## Evelīna Stecka
 
-**Par projektu**
+## **Par projektu** ##
 
 Šis projekts izveidots programmēšanas pamatkursa noslēguma darbam. Tā mērķis ir izveidot Python programmu, kas terminālī izvada autores vārdu un kursa nosaukumu. Projekta izveidē tiek izmantota mapju struktūra, Git ignorēšanas noteikumi un GitHub Desktop versiju kontrole.
 
@@ -23,7 +23,7 @@ pd1/
 
 - kods/sveiciens.py satur Python programmas kodu.
 
-# **Palaišana**
+# **Palaišana** #
 
 **Nepieciešams:** datorā jābūt instalētai Python videi.
 
