@@ -31,7 +31,7 @@ py pd1/kods/sveiciens.py
 
 - Nospied Enter.
 
-Ja programma darbojas pareizi, terminālī parādās:
+**Sagaidāmais rezultāts:**
 
 Evelīna Stecka
 Programmēšana pamatkurss
