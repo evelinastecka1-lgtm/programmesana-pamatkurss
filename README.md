@@ -9,8 +9,11 @@
 
 pd1/
 ├── .gitignore
+
 ├── README.md
+
 └── kods/
+
     └── sveiciens.py 
 
 - .gitignore nosaka, kurus failus un mapes Git ignorē.
