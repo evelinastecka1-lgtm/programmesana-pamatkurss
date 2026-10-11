@@ -17,13 +17,13 @@ pd1/
 
     └── sveiciens.py 
 
-- .gitignore nosaka, kurus failus un mapes Git ignorē.
+- **.gitignore**   -nosaka, kurus failus un mapes Git ignorē.
 
-- README.md satur projekta aprakstu un palaišanas instrukciju.
+- **README.md**   -satur projekta aprakstu un palaišanas instrukciju.
 
-- kods/sveiciens.py satur Python programmas kodu.
+- **kods/sveiciens.py**   -satur Python programmas kodu.
 
-# **Palaišana** #
+## **Palaišana** ##
 
 **Nepieciešams:** datorā jābūt instalētai Python videi.
 
@@ -41,7 +41,7 @@ Evelīna Stecka
 
 Programmēšana pamatkurss
 
-# **Ergonomika**
+## **Ergonomika** ##
 
 **Ergonomika** ir darba vides pielāgošana cilvēka vajadzībām, lai darbs būtu ērts, drošs un mazinātu nevajadzīgu fizisku slodzi.
 
