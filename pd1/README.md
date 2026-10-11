@@ -23,7 +23,7 @@ pd1/
 
 - kods/sveiciens.py satur Python programmas kodu.
 
-# **Palaišana** #
+## **Palaišana** ##
 
 **Nepieciešams:** datorā jābūt instalētai Python videi.
 
