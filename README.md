@@ -5,7 +5,7 @@
 
 Šis projekts izveidots programmēšanas pamatkursa noslēguma darbam. Tā mērķis ir izveidot Python programmu, kas terminālī izvada autores vārdu un kursa nosaukumu. Projekta izveidē tiek izmantota mapju struktūra, Git ignorēšanas noteikumi un GitHub Desktop versiju kontrole.
 
-**Projekta struktūra**
+## **Projekta struktūra** ##
 
 pd1/
 
