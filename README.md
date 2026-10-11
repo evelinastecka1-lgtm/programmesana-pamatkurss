@@ -38,9 +38,9 @@ Programmēšana pamatkurss
 
 **Ergonomika**
 
-Ergonomika ir darba vides pielāgošana cilvēka vajadzībām, lai darbs būtu ērts, drošs un mazinātu nevajadzīgu fizisku slodzi.
+**Ergonomika** ir darba vides pielāgošana cilvēka vajadzībām, lai darbs būtu ērts, drošs un mazinātu nevajadzīgu fizisku slodzi.
 
-- Pareiza sēdēšana: mugurai jābūt atbalstītai, pleciem atslābinātiem un pēdām stabili novietotām uz grīdas vai kāju balsta. Tas palīdz mazināt saspringumu mugurā un plecos.
+- **Pareiza sēdēšana:** mugurai jābūt atbalstītai, pleciem atslābinātiem un pēdām stabili novietotām uz grīdas vai kāju balsta. Tas palīdz mazināt saspringumu mugurā un plecos.
 
 - Monitora novietojums: monitoram jāatrodas aptuveni rokas stiepiena attālumā, un tā augšējai malai jābūt acu līmenī vai nedaudz zemāk. Tas palīdz saglabāt ērtu galvas un kakla pozīciju.
 
