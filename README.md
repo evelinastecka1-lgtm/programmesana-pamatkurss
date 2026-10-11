@@ -34,6 +34,7 @@ py pd1/kods/sveiciens.py
 **Sagaidāmais rezultāts:**
 
 Evelīna Stecka
+
 Programmēšana pamatkurss
 
 # **Ergonomika**
