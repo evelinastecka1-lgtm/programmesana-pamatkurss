@@ -19,7 +19,7 @@ README.md satur projekta aprakstu un palaišanas instrukciju.
 
 kods/sveiciens.py satur Python programmas kodu.
 
-#**Palaišana**#
+# **Palaišana**
 
 Nepieciešams: datorā jābūt instalētai Python videi.
 
@@ -36,7 +36,7 @@ Ja programma darbojas pareizi, terminālī parādās:
 Evelīna Stecka
 Programmēšana pamatkurss
 
-**Ergonomika**
+# **Ergonomika**
 
 **Ergonomika** ir darba vides pielāgošana cilvēka vajadzībām, lai darbs būtu ērts, drošs un mazinātu nevajadzīgu fizisku slodzi.
 
