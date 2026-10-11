@@ -57,7 +57,7 @@ Programmēšana pamatkurss
 
 - **Plaukstu un roku novietojums:** rakstot ar tastatūru, plaukstām jābūt atslābinātām un taisnā pozīcijā, bet elkoņiem — tuvu ķermenim. Tas palīdz samazināt nevajadzīgu slodzi uz rokām.
 
-## **Secinājums** ##
+### **Secinājums** ###
 
 Veidojot šo projektu, tika apgūta Python programmas izveide un palaišana, failu organizēšana, .gitignore izmantošana un izmaiņu pārvaldība ar GitHub Desktop. Pareiza darba vietas iekārtošana un regulāras pauzes palīdz veidot veselīgākus un produktīvākus darba paradumus.
 
