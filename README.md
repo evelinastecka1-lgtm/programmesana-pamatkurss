@@ -13,15 +13,15 @@ pd1/
 └── kods/
     └── sveiciens.py
 
-.gitignore nosaka, kurus failus un mapes Git ignorē.
+- .gitignore nosaka, kurus failus un mapes Git ignorē.
 
-README.md satur projekta aprakstu un palaišanas instrukciju.
+- README.md satur projekta aprakstu un palaišanas instrukciju.
 
-kods/sveiciens.py satur Python programmas kodu.
+- kods/sveiciens.py satur Python programmas kodu.
 
 # **Palaišana**
 
-Nepieciešams: datorā jābūt instalētai Python videi.
+**Nepieciešams:** datorā jābūt instalētai Python videi.
 
 Atver termināli projekta galvenajā mapē.
 
