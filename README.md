@@ -1,5 +1,4 @@
-Programmēšana pamatkurss — PD1
-
+# Programmēšana pamatkurss — PD1
 Autore: Evelīna Stecka
 
 Par projektu
