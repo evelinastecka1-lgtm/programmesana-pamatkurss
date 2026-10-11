@@ -1,5 +1,5 @@
 # Programmēšana pamatkurss — PD1
-Autore: Evelīna Stecka
+**Autore:** Evelīna Stecka
 
 Par projektu
 
@@ -36,7 +36,7 @@ Ja programma darbojas pareizi, terminālī parādās:
 Evelīna Stecka
 Programmēšana pamatkurss
 
-#Ergonomika
+Ergonomika
 
 Ergonomika ir darba vides pielāgošana cilvēka vajadzībām, lai darbs būtu ērts, drošs un mazinātu nevajadzīgu fizisku slodzi.
 
