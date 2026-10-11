@@ -8,6 +8,7 @@
 **Projekta struktūra**
 
 pd1/
+
 ├── .gitignore
 
 ├── README.md
