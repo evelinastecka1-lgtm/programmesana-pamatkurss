@@ -23,13 +23,13 @@ pd1/
 
 **Nepieciešams:** datorā jābūt instalētai Python videi.
 
-Atver termināli projekta galvenajā mapē.
+- Atver termināli projekta galvenajā mapē.
 
-Ievadi komandu:
+- Ievadi komandu:
 
 py pd1/kods/sveiciens.py
 
-Nospied Enter.
+- Nospied Enter.
 
 Ja programma darbojas pareizi, terminālī parādās:
 
