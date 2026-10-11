@@ -61,4 +61,5 @@ Programmēšana pamatkurss
 
 Veidojot šo projektu, tika apgūta Python programmas izveide un palaišana, failu organizēšana, .gitignore izmantošana un izmaiņu pārvaldība ar GitHub Desktop. Pareiza darba vietas iekārtošana un regulāras pauzes palīdz veidot veselīgākus un produktīvākus darba paradumus.
 
-## **Secinājums par darbu:** ## Grūtākais solis šajā darbā bija pareizi noformēt README.md failu, izmantojot Markdown simbolus, jo sākumā bija grūti panākt, lai teksts tiktu attēlots pareizi.
+## **Secinājums par darbu:** ## 
+Grūtākais solis šajā darbā bija pareizi noformēt README.md failu, izmantojot Markdown simbolus, jo sākumā bija grūti panākt, lai teksts tiktu attēlots pareizi.
